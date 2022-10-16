@@ -1,0 +1,6 @@
+#+TITLE: Lisprey
+#+AUTHOR: Jack Cedar
+
+Lisprey Is A Discord Bot Written in Lisp Configured In Lisp and Evaluates Lisp As Commands
+* Contents
+ * gateway.lisp, handles the inital connection to the Discord gateway and starting the heartbeat
